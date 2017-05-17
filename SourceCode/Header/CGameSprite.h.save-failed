@@ -1,0 +1,16 @@
+#ifndef CGAMESPRITE_H
+#define CGAMESPRITE_H
+
+#include <CSprite.h>
+
+
+class CGameSprite : public CSprite
+{
+    public:
+        CGameSprite();
+        virtual ~CGameSprite();
+    protected:
+    private:
+};
+
+#endif // CGAMESPRITE_H

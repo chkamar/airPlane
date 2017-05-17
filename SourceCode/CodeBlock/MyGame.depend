@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1494519032 source:d:\funcode\games\mygame\sourcecode\src\cmyfighter.cpp
+	"CMyFighter.h"
+	"LessonX.h"
+	<iostream>
+
+1494519034 d:\funcode\games\mygame\sourcecode\header\cmyfighter.h
+	"CommonClass.h"
+
+1422461346 d:\funcode\games\mygame\sourcecode\header\commonclass.h
+	<windows.h>
+
+1494563689 source:d:\funcode\games\mygame\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"LessonX.h"
+	"CMyFighter.h"
+	"CBullet.h"
+	"CEnemyFighter.h"
+	<iostream>
+	<stdio.h>
+
+1494564051 d:\funcode\games\mygame\sourcecode\header\lessonx.h
+	<Windows.h>
+	"CMyFighter.h"
+	"CommonClass.h"
+	"CSpriteList.h"
+
+1494518894 source:d:\funcode\games\mygame\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+
+1494333046 source:d:\funcode\games\mygame\sourcecode\icon.rc
+
+1494520810 source:d:\funcode\games\mygame\sourcecode\src\cbullet.cpp
+	"CBullet.h"
+	"LessonX.h"
+
+1494520837 d:\funcode\games\mygame\sourcecode\header\cbullet.h
+	<CommonClass.h>
+
+1494571099 source:d:\funcode\games\mygame\sourcecode\src\cenemyfighter.cpp
+	"CEnemyFighter.h"
+	"LessonX.h"
+	<stdio.h>
+	<iostream>
+
+1494562812 d:\funcode\games\mygame\sourcecode\header\cenemyfighter.h
+	<CommonClass.h>
+
+1494513266 d:\funcode\games\mygame\sourcecode\header\cspritelist.h
+	"CommonClass.h"
+
+1494492440 source:d:\funcode\games\mygame\sourcecode\src\cspritelist.cpp
+	"CSpriteList.h"
+
+1494512676 d:\funcode\games\mygame\sourcecode\header\cgamesprite.h
+	<CommonClass.h>
+
+1494513674 source:d:\funcode\games\mygame\sourcecode\src\cgamesprite.cpp
+	"CGameSprite.h"
+
+1494333046 source:d:\funcode\games\mygame - 副本\sourcecode\icon.rc
+
+1494949129 source:d:\funcode\games\mygame - 副本\sourcecode\src\cbullet.cpp
+	"CBullet.h"
+	"LessonX.h"
+	<iostream>
+
+1494923549 d:\funcode\games\mygame - 副本\sourcecode\header\cbullet.h
+	<CommonClass.h>
+	"CGameSprite.h"
+
+1494940190 d:\funcode\games\mygame - 副本\sourcecode\header\commonclass.h
+	<windows.h>
+
+1494922374 d:\funcode\games\mygame - 副本\sourcecode\header\lessonx.h
+	<Windows.h>
+	"CMyFighter.h"
+	"CommonClass.h"
+	"CSpriteList.h"
+
+1494940899 d:\funcode\games\mygame - 副本\sourcecode\header\cmyfighter.h
+	"CommonClass.h"
+	"CGameSprite.h"
+
+1494513266 d:\funcode\games\mygame - 副本\sourcecode\header\cspritelist.h
+	"CommonClass.h"
+
+1494947931 source:d:\funcode\games\mygame - 副本\sourcecode\src\cmyfighter.cpp
+	"CMyFighter.h"
+	"LessonX.h"
+	<iostream>
+
+1494492440 source:d:\funcode\games\mygame - 副本\sourcecode\src\cspritelist.cpp
+	"CSpriteList.h"
+
+1494949078 source:d:\funcode\games\mygame - 副本\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"LessonX.h"
+	"CMyFighter.h"
+	"CBullet.h"
+	"CEnemyFighter.h"
+	<iostream>
+	<stdio.h>
+	"fstream"
+
+1494943964 d:\funcode\games\mygame - 副本\sourcecode\header\cenemyfighter.h
+	<CommonClass.h>
+	"CGameSprite.h"
+
+1494942234 source:d:\funcode\games\mygame - 副本\sourcecode\src\main.cpp
+	<iostream>
+	"CommonClass.h"
+	"LessonX.h"
+
+1494948494 source:d:\funcode\games\mygame - 副本\sourcecode\src\cenemyfighter.cpp
+	"CEnemyFighter.h"
+	"LessonX.h"
+	<stdio.h>
+	<iostream>
+
+1494916267 source:d:\funcode\games\mygame - 副本\sourcecode\src\cgamesprite.cpp
+	"CGameSprite.h"
+
+1494916436 d:\funcode\games\mygame - 副本\sourcecode\header\cgamesprite.h
+	<CommonClass.h>
+
